@@ -26,7 +26,7 @@ app.get("/", (req, res) =>{
 
 app.get("/projects", (req, res) =>{
     // Send projects via JSON
-    res.json(about);
+    res.json(projects);
 });
 
 // Route for retrieving about info 
