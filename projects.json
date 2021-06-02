@@ -6,9 +6,9 @@
 "image": ""
     },
     {
-"name": "project2",
-"live": "https://app.netlify.app/whatever",
-"git": "http://www.github.com/username/reponame",
+"name": "A Simple Reddit Scrapper and Discord Bot",
+"live": "https://project2jc.herokuapp.com/",
+"git": "https://github.com/jcari-rgb/project2",
 "image": ""
     }
 ]
